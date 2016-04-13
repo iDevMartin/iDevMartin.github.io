@@ -9,7 +9,7 @@ title:               Martin Bestawros
 tagline:             A Personal Homepage
 url:                 http://idevmartin.com
 paginate:            1
-baseurl:             "http://idevmartin.github.io"
+baseurl:             /
 
 # Assets
 #
