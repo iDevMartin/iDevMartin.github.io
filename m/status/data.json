@@ -1,131 +1,19 @@
 
 [
-  
-  { 
-
-    "event" : "Open Source Day Event",
-
-    "start" : "2015/08/31",
-
-    "end" : "2015/11/01",
-
-    "todos" : [ 
-  
-      [ false , "Contents of the main conference" ],
-
-      [ false , "Advertising..." ],
-
-      [ true  , "Validating workshops" ],
-
-      [ false , "Making the content" ],
-
-      [ false , "BW: Translating the Wikipedia page" ],
-
-      [ false , "BW: Rehearsing for the demo..." ],
-
-      [ true , "The Business and Python workshops content validation"],
-
-      [ true , "Validating the content for the the Hardware and RoR workshops" ],
-
-      [ false , "Who is going to be the host?" ],
-
-      [ false , "Advertising..." ],
-
-      [ false , "Contents of the movie..." ]
-
-    ]
-
-  },
 
   { 
 
-    "event" : "HeatStudio Core",
+    "event" : "Blog Website",
 
-    "start" : "2015/06/20",
+    "start" : "2016/04/13",
 
-    "end" : "2015/11/10",
-
-    "todos" : [ 
-
-      [ false , "BUG: Empty result" ],
-
-      [ true  , "Thermal Bridge support" ],
-
-      [ false , "Standard Loader" ],
-
-      [ false , "Website" ],
-
-      [ false , "Website Ad" ],
-
-      [ false , "Thermal Bridge tables" ],
-
-      [ false , "Material Charts" ],
-
-      [ true , ".HeatStudio file loader" ],
-
-      [ false , "Moving to SketchUp plug-in" ]
-
-    ]
-
-  },
-
-  { 
-
-    "event" : "Tagged Language",
-
-    "start" : "2015/07/31",
-
-    "end" : "2016/6/01",
+    "end" : "2016/06/01",
 
     "todos" : [ 
 
       [ false , "BUG: String Interpolations in Lexer" ],
 
       [ true  , "Finding a right grammar" ]
-
-    ]
-
-  },
-
-  { 
-
-    "event" : "Arendelle 3",
-
-    "start" : "2015/09/01",
-
-    "end" : "2016/11/01",
-
-    "todos" : [
-
-      [ false , "Input" ],
-
-      [ false , "Updating Arendelle Book " ],
-
-      [ false , "Arendelle Book: Adding Arrays" ],
-
-      [ false , "Figuring out if there is anyway to have the stored spaces implemented" ],
-
-      [ false , "Figuring out how to write ‘W’ command" ],
-
-      [ false , "Adding the support for Arendelle’s no error system" ],
-
-      [ false , "Returning 0 on every null" ],
-
-      [ false , "Making it 3D" ],
-
-      [ false , ".grid file for the importer" ],
-
-      [ false , "Project sharing" ], 
-
-      [ false , "Custom grid size and custom dot size"],
-
-      [ false , "Custom color palates"],
-
-      [ false , "Open .arendelle blueprints from other apps (file extensions)"],
-
-      [ false , "Custom shortkeys" ],
-
-      [ false , "Console with title history"]
 
     ]
 
